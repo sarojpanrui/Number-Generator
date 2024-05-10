@@ -1,0 +1,29 @@
+#first{
+    height:50px;
+    width: 50px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-left: 700px;
+    margin-top: 20px;
+
+}
+#second{
+    height:50px;
+    width: 50px;
+    border: 2px solid rgb(11, 0, 0);
+    margin-bottom: 20px;
+    margin-left: 700px;
+}
+#third{
+    height:50px;
+    width: 50px;
+    border: 2px solid black;
+    margin-bottom: 20px;
+    margin-left: 700px;
+
+}
+
+body{
+    text-align: center;
+    margin: auto;
+}
